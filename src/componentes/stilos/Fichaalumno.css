@@ -1,0 +1,375 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.ficha{
+	margin:auto;
+	margin-top:50px;
+	width:800px;
+	height:300px;
+}
+.fotito{
+  
+	margin-left: auto;
+  margin-right: auto;
+  margin-top: 1px;
+  width: 230px;
+  height: auto;
+   display: block;
+   border-radius: 20px;
+}
+.fotito2{
+	margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 70px;
+   display: block;
+   background-color: white;
+}
+.fotito3{
+	margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 120px;
+   display: block;
+}
+.fotito4{
+  width: 400px;
+  height: 120px;
+   display: block;
+}
+.bordeazul{
+	margin-left:10px;
+	margin-right:10px;
+	border-style:solid;
+	/* border-color : blue; */
+  width: 800px;
+  height: 250px;
+  /* border-radius: 50px; */
+  background-color: royalblue;
+}
+.bordenaranja{
+	margin-left:10px;
+	margin-right:10px;
+	border-style:solid;
+	border-color : orange;
+  width: 800px;
+  height: 340px;
+  border-radius: 50px;
+  background-color: orange;
+}
+.bordeverde{
+	margin-left:0px;
+	margin-right:0px;
+	border-style:solid;
+	border-color : green;
+  width: 300px;
+  height: 330px;
+  border-radius: 50px;
+  background-color: green;
+  border-radius: 30px;
+}
+.bordegris{
+	margin-left:0px;
+	margin-right:0px;
+	border-color : gray;
+  width: 400px;
+  height: 330px;
+}
+.bordemorado{
+	margin-top: 0px;
+  margin-left: auto;
+	margin-right: 90;
+	
+	border-color : purple;
+  width: 200px;
+  height: 1px;
+}
+.borderojo{
+	margin-left:10px;
+	margin-right:10px;
+  width: 300px;
+  
+}
+.bordenegro{
+	margin-top: 10px;
+  width: 200px;
+  height: 50px;
+  background-color: antiquewhite;
+  padding: 0px;
+  border-style:solid;
+  border-color: brown;
+  position: sticky;
+  display: block;
+  
+}
+.texto-encima{
+  color: black;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+
+.divfoto{
+	margin-top: auto;
+	margin-left: auto;
+  margin-right: auto;
+	width:250px;
+	height:105px;
+	background-color:black;
+  padding: 10px;
+  background-color: royalblue;
+}
+.divfoto2{
+	margin-top: auto;
+	margin-left: auto;
+  margin-right: auto;
+	width:250px;
+	height:210px;
+	background-color:white;
+  padding: 10px;
+}
+.mifoto{
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  height: 150px;
+  display: block;
+  box-shadow: 0 20px 20px 5px rgba(0, 0, 0.40);
+}
+.divlogo{
+  margin-top: 30px;
+  font-family: sans-serif;
+  font-size: small;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  text-shadow: 2px 2px 2px black;
+  color: white;
+}
+
+
+.infoalu{
+	margin-top:10px;
+	margin-left:20px;
+	margin-bottom:10px;
+	width:350px;
+	height:100px;
+	background-color:black;
+}
+
+
+
+.detalle{color:white;
+   font-size:20px;
+   font-weight:bold;
+   text-align:left;
+   text-indent:20px;
+  }
+
+.alerta{
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 28px;
+  text-align: center;
+  /* color: white; */
+  background-image: linear-gradient(orange, yellow, red);
+
+}
+.alerta2{
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 28px;
+  text-align: center;
+  color: black;
+  background-image: linear-gradient(green, blue, gray);
+
+}
+
+.boton{
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.boton2{
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.centrado{
+  text-align:center;
+   padding:15px;
+   background-color: aquamarine;
+   width:25%; 
+   border:1px;
+   margin:auto;
+  }
+
+  .centrado2{
+  text-align:center;
+   padding:80px;
+   background-color: green;
+   width:70%; 
+   border:50px;
+   margin:auto;
+   border-style:dotted rgb(0, 0, 0); 
+   border-radius: 50px;
+  }
+
+  .centrado3{
+    text-align:center;
+     padding:150px;
+     background-color: gainsboro;
+     width:50%; 
+     border:1px;
+     margin:auto;
+    }
+
+    .miform{
+      text-align:center;
+       padding:15px;
+       background-color: goldenrod;
+       width:50%; 
+       border:1px;
+       margin:auto;
+      }
+		
+
+    .con{
+      margin:auto;
+      margin-top:50px;
+      width:800px;
+      height:600px;
+      background-color: royalblue;
+    }
+
+    .ima{
+  
+      margin-left: auto;
+      margin-right: 100px;
+      margin-top: 1px;
+      width: 150px;
+      height: auto;
+       
+       border-radius: 20px;
+    }
+
+    .ima2{
+      margin-left: 100px;
+      margin-right: 200px;
+      width: 200px;
+      height: 70px;
+       display: block;
+       
+    }
+
+    .bo{
+      margin-left: 300px;
+      
+      width: 400px;
+      height: 100px;
+      background-color: greenyellow;
+      
+      border-style:solid;
+      border-color: green;
+      display: block;
+    }
+
+    .bo2{
+      margin-left: 100px;
+      
+      width: 400px;
+      height: 100px;
+      background-color: orange;
+      
+      border-style:solid;
+      border-color: orangered;
+      display: block;
+    }
+
+    .bo3{
+      margin-left: 300px;
+      
+      width: 400px;
+      height: 100px;
+      background-color: orange;
+      
+      border-style:solid;
+      border-color: orangered;
+      display: block;
+    }
+
+    .texto{
+      color: white;
+      position: absolute;
+      top: 250px;
+      left: 600px;
+    }
+
+    .texto1{
+      color: white;
+      position: absolute;
+      top: 270px;
+      left: 600px;
+    }
+
+    .texto4{
+      color: white;
+      position: absolute;
+      top: 370px;
+      left: 400px;
+    }
+
+    .texto3{
+      color: white;
+      position: absolute;
+      top: 350px;
+      left: 400px;
+    }
+
+    .texto2{
+      color: white;
+      position: absolute;
+      top: 290px;
+      left: 600px;
+    }
+
+    .texto5{
+      color: white;
+      position: absolute;
+      top: 450px;
+      left: 600px;
+    }
+
+    .texto6{
+      color: white;
+      position: absolute;
+      top: 470px;
+      left: 600px;
+    }
+
+    .texto7{
+      color: white;
+      position: absolute;
+      top: 490px;
+      left: 600px;
+    }
+		
+
+  @supports(object-fit: cover){
+    .divfoto img{
+      height: 100%;
+      object-fit: cover;
+      object-position: center center;
+    }
+}
+
